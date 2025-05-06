@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "test"
+  title: "Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/ek-ku
+      - icon: bluesky
+        href: https://bsky.app/profile/evelinekiki.bsky.social
 format:
   html:
     theme:
