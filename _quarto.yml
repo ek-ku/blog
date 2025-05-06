@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "test"
   navbar:
@@ -14,7 +14,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - yeti
       - brand
     css: styles.css
 
