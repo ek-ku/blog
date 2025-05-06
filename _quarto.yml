@@ -14,7 +14,7 @@ website:
 format:
   html:
     theme:
-      - yeti
+      - solar
       - brand
     css: styles.css
 
