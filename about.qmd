@@ -4,7 +4,7 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: bluesky
+    - icon: iconify fa6-brands:bluesky
       text: Bluesky
       href: https://bsky.app/profile/evelinekiki.bsky.social
     - icon: linkedin
