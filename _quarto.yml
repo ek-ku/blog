@@ -18,5 +18,9 @@ format:
       - brand
     css: styles.css
 
+plugins:
+  - mcanouil/quarto-iconify
+
+
 
 
