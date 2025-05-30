@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+plugins:
+  - mcanouil/quarto-iconify
+
 website:
   title: "Kiki's Blog"
   navbar:
@@ -9,8 +12,12 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/ek-ku
-      - icon: bluesky
+      - text: "{{< iconify fa6-brands bluesky >}}"
         href: https://bsky.app/profile/evelinekiki.bsky.social
+      - icon: linkedin
+        href: https://linkedin.com/in/ekkuijjer
+      - text: "{{< iconify academicons academia-square >}}"
+        href: https://soton.academia.edu/EvelineKikiKuijjer
 format:
   html:
     theme:
@@ -18,8 +25,7 @@ format:
       - brand
     css: styles.css
 
-plugins:
-  - mcanouil/quarto-iconify
+
 
 
 
