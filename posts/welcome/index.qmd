@@ -1,11 +1,11 @@
 ---
 title: "Welcome to my blog"
 date: "2025-06-03"
-image: image.webp
+title-block-banner: banner.webp
 categories: [news]
 ---
 
-![](image.webp)
+
 
 I’m starting this blog to share ideas and projects at the crossroads of digital scholarship and ocean heritage.
 
