@@ -1,7 +1,9 @@
 /* css styles */
 
+
+
 .navbar, .navbar-nav {
-    background-color: #002b36 !important;  /* or your preferred color */
+    background-color: #002b36 !important;  /* navigation bar */
   }
 
 a {
