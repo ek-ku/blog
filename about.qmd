@@ -15,4 +15,4 @@ about:
 ---
 I'm a Learning Technologist and Digital Scholarship Administrator at the University of Southampton, where I support open, accessible, and innovative ways of engaging with library collections. I’m also Digital Engagement Manager for the Ocean Decade Heritage Network, working at the intersection of heritage, science communication, and ocean advocacy.
 
-This blog brings together my interests in digital scholarship and ocean heritage. I write about open knowledge, digital tools, research communication, and the intersections between culture, science, and the sea.
+This blog brings together my interests in digital scholarship and ocean heritage. I write about  digital tools, research communication, and the intersections between culture, science, and the sea.

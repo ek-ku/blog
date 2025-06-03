@@ -23,6 +23,8 @@ format:
     theme:
       - flat
       - brand
+    theme-variables:
+      banner-background: "#002b36"
     css: styles.css
 
 

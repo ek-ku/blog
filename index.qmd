@@ -8,5 +8,6 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: "#002b36"
+navigation-background: "#002b36"
 ---

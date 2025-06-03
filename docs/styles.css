@@ -1,13 +1,17 @@
 /* css styles */
 
-.title-header  {
-    background-color: #002b36; /* banner background colour */
-}
+.navbar, .navbar-nav {
+    background-color: #002b36 !important;  /* or your preferred color */
+  }
 
 a {
-    color: #25a18c; /* Replace with your color */
+    color: #1E8574; /* link colour */
   }
 
   a:hover {
-    color: #FF3300;
+    color: #E02D00; /* link hover colour */
+  }
+
+  body {
+    color: #002b36;  /* main body text colour */
   }
