@@ -1,1 +1,13 @@
 /* css styles */
+
+.title-header  {
+    background-color: #002b36; /* banner background colour */
+}
+
+a {
+    color: #25a18c; /* Replace with your color */
+  }
+
+  a:hover {
+    color: #FF3300;
+  }
