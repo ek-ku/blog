@@ -1,5 +1,5 @@
 ---
-title: "Welcome To My Blog"
+title: "Welcome to my blog"
 date: "2025-06-03"
 categories: [news]
 ---
@@ -12,7 +12,3 @@ This blog is a place for me to think out loud. Expect posts  research communicat
 
 All views here are my own.
 
-
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
