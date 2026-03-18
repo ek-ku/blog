@@ -6,8 +6,17 @@ plugins:
   - mcanouil/quarto-iconify
 
 website:
-  title: "Kiki's Blog"
+  title: "Kiki Kuijjer"
+
   navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Blog
+        href: blog.qmd
+
     right:
       - about.qmd
       - icon: github
@@ -18,6 +27,7 @@ website:
         href: https://linkedin.com/in/ekkuijjer
       - text: "{{< iconify academicons academia-square >}}"
         href: https://soton.academia.edu/EvelineKikiKuijjer
+        
 format:
   html:
     theme:
