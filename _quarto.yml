@@ -11,14 +11,13 @@ website:
   navbar:
     left:
       - text: Home
-        href: index.qmd
-      - text: About
-        href: about.qmd
+        href: index.html
+      - text: About me
+        href: about.html
       - text: Blog
-        href: blog.qmd
+        href: blog.html
 
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/ek-ku
       - text: "{{< iconify fa6-brands bluesky >}}"
