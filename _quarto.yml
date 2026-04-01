@@ -12,12 +12,14 @@ website:
     left:
       - text: Home
         href: index.html
-      - text: About me
-        href: about.html
       - text: Blog
         href: blog.html
+      - text: About me
+        href: about.html
       - text: Publications
         href: publications.html
+      - text: Ocean Heritage conferences on Bluesky
+        href: ocean-heritage-on-bsky.html
 
     right:
       - icon: github

@@ -3,3 +3,8 @@ title: "Publications"
 page-layout: full
 title-block-banner: "#002b36"
 ---
+
+Here are some of my publications:
+
+- **Paper 1:** Details, link, etc.
+- **Paper 2:** Details, link, etc.
