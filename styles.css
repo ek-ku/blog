@@ -18,13 +18,13 @@ a {
     color: #002b36;  /* main body text colour */
   }
 
-/* Primary button background */
 .btn-primary {
-    background-color: #002b36 !important;  /* your brand color */
-    color: white !important;               /* text color */
+    background-color: #002b36 !important; /* Primary button */
+    border-color: #002b36 !important;
+    color: white !important;
 }
 
-/* Hover effect */
 .btn-primary:hover {
-    background-color: #1E8574 !important;
+    background-color: #1E8574 !important; /* Button hover effect */
+    border-color: #1E8574 !important;
 }
