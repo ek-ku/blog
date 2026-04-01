@@ -4,7 +4,18 @@ page-layout: full
 title-block-banner: "#004152"
 ---
 
+## Scientific publications
+
 Here are some of my publications:
 
-- **Paper 1:** Details, link, etc.
-- **Paper 2:** Details, link, etc.
+Hawkins, E., Brohan, P., Burgess, S.N., Burt, S., Compo, G.P., Gray, S.L., Haigh, I.D., Hersbach, H., Kuijjer, K., Martínez-Alvarado, O. and McColl, C., (2023). Rescuing historical weather observations improves quantification of severe windstorm risks. Natural Hazards and Earth System Sciences 23(4), 1465-1482. [https://doi.org/10.5194/nhess-23-1465-2023](https://doi.org/10.5194/nhess-23-1465-2023).
+
+Kuijjer, E.K., Haigh, I.D., Marsh, R., Farr, H., (2022). Changing tidal dynamics and the role of the marine environment in the maritime migration to Australasia. PaleoAnthropology 2022(1).[https://doi.org/10.48738/2022.iss1.105](https://doi.org/10.48738/2022.iss1.105)
+
+Kuijjer, E.K., (2020) The role of open ocean and coastal tidal currents in the maritime migration to Sahul, ca. 65,000–50,000 years ago. University of Southampton, Doctoral Thesis, 329pp. [http://eprints.soton.ac.uk/id/eprint/446902](http://eprints.soton.ac.uk/id/eprint/446902)
+
+Kuijjer, E. K., Mbye, H., Power, C., Veluplay, G., Westbury, S., (2017). Social Sustainability and Unplanned Urban Growth in the Coastal Megacity. Southampton, UK: University of Southampton.
+
+## Podcast appearances
+I am featured on [Before Us podcast](https://beforeus.buzzsprout.com) by Helen Farr and Erich Fisher, talking about early seafaring, ocean currents and winds. Check out Season 1 Episode 12: [Going with the flow](https://beforeus.buzzsprout.com/2430825/episodes/16998594-going-with-the-flow).
+
