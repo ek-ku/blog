@@ -1,5 +1,5 @@
 ---
-title: "Ocean Heritage on Bluesky"
+title: "Conference hashtags on Bluesky"
 page-layout: full
 title-block-banner: "#004152"
 ---
