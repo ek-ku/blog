@@ -16,6 +16,8 @@ website:
         href: about.html
       - text: Blog
         href: blog.html
+      - text: Publications
+        href: publications.html
 
     right:
       - icon: github

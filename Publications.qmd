@@ -1,0 +1,9 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+Here are some of my publications:
+
+- **Paper 1:** Details, link, etc.
+- **Paper 2:** Details, link, etc.
