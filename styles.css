@@ -45,7 +45,7 @@ a {
 }
 
 /*Heading 2*/
-h2 {
-  border-bottom: none;   /* removes underline */
-  font-size: 1.8rem;     /* increase size (adjust to taste) */
+body h2 {
+  border-bottom: none !important;  /* remove underline */
+  font-size: 1.8rem !important;    /* increase size */
 }
