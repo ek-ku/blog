@@ -49,3 +49,13 @@ body h2 {
   border-bottom: none !important;  /* remove underline */
   font-size: 1.8rem !important;    /* increase size */
 }
+
+/*Round image*/
+.round-img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto; /* centers it */
+}

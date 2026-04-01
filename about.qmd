@@ -13,6 +13,8 @@ links:
       href: https://soton.academia.edu/EvelineKikiKuijjer
 ---
 
+<img src="files/profile.jpg" class="round-img">
+
 I’m Kiki Kuijjer, 
 
 I help people and organisations connect audiences with research, collections, and cultural heritage through digital tools and communication.
@@ -23,4 +25,5 @@ As a freelancer, I offer consultancy, social media support, website management, 
 
 On my [blog](https://ek-ku.github.io/blog/blog.html), I write about digital tools, research communication, and the intersections between culture, science, and the sea.
 
-[Download CV](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary .cta-btn}
+[Download CV](files/CV_EKKUIJJER.pdf){.btn .btn-primary .cta-btn}
+

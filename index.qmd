@@ -19,6 +19,8 @@ As a freelancer, I offer consultancy, social media support, website management, 
 
 [About me](about.qmd){.btn .btn-primary .cta-btn}
 
+<br>
+
 ## Services
 
 * Freelance consultancy on digital engagement and science communication
@@ -28,6 +30,10 @@ As a freelancer, I offer consultancy, social media support, website management, 
 
 [Get in touch](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary .cta-btn}
 
+<br>
+
 ## Latest Blog Posts
 
 On my [blog](https://ek-ku.github.io/blog/blog.html), I write about digital tools, research communication, and the intersections between culture, science, and the sea.
+
+Check out my latest blog posts:
