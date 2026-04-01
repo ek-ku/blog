@@ -1,7 +1,6 @@
 ---
 title: "Blog"
-listing:
+blog:
   contents: posts
   sort: "date desc"
-  type: default
 ---
