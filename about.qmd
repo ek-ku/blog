@@ -24,4 +24,4 @@ As a freelancer, I offer consultancy, social media support, website management, 
 
 On my [blog](https://ek-ku.github.io/blog/blog.html), I write about digital tools, research communication, and the intersections between culture, science, and the sea.
 
-[Get in touch!](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary target="_blank"}
+[Get in touch](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary target="_blank"}
