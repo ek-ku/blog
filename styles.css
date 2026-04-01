@@ -18,6 +18,7 @@ a {
     color: #002b36;  /* main body text colour */
   }
 
+  /*Buttons*/
 .btn-primary {
     background-color: #002b36 !important; /* Primary button */
     border: 2px solid #002b36 !important;
@@ -27,4 +28,13 @@ a {
 .btn-primary:hover {
     background-color: #1E8574 !important; /* Button hover effect */
     border: 2px solid #1E8574 !important;
+}
+
+/* Remove focus / active glow */
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.focus,
+.btn-primary:active:focus {
+    outline: none !important;
+    box-shadow: none !important;
 }
