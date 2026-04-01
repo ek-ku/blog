@@ -13,8 +13,6 @@ links:
       href: https://soton.academia.edu/EvelineKikiKuijjer
 ---
 
-<img src="files/profile.jpg" class="round-img">
-
 I’m Kiki Kuijjer, 
 
 I help people and organisations connect audiences with research, collections, and cultural heritage through digital tools and communication.
