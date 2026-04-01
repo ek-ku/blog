@@ -1,12 +1,12 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
       "/posts/2026-04-01-welcome/index.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
       "/posts/2026-04-01-welcome/index.html"
     ]
