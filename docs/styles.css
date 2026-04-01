@@ -20,11 +20,11 @@ a {
 
 .btn-primary {
     background-color: #002b36 !important; /* Primary button */
-    border-color: #002b36 !important;
+    border: 2px solid #002b36 !important;
     color: white !important;
 }
 
 .btn-primary:hover {
     background-color: #1E8574 !important; /* Button hover effect */
-    border-color: #1E8574 !important;
+    border: 2px solid #1E8574 !important;
 }

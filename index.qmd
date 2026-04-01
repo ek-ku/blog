@@ -24,6 +24,8 @@ As a freelancer, I offer consultancy, social media support, website management, 
 * Website updates, design support, and accessibility recommendations
 * Science communication and public engagement content
 
+[Get in touch](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary target="_blank"}
+
 # Latest Blog Posts
 
 On my blog, I write about digital tools, research communication, and the intersections between culture, science, and the sea.
