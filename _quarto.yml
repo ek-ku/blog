@@ -18,8 +18,8 @@ website:
         href: about.html
       - text: Publications
         href: publications.html
-      - text: Ocean Heritage conferences on luesky
-        href: ocean-heritage-on-bsky.html
+      - text: Conference hashtags on Bluesky
+        href: conference-hashtags-on-bsky.html
 
     right:
       - icon: github
