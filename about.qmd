@@ -1,9 +1,8 @@
 ---
 title: "About me"
+title-block-banner: "#004152"
 image: profile.jpg
-about:
-  template: jolla
-  links:
+links:
     - icon: github
       href: https://github.com/ek-ku
     - text: "{{< iconify fa6-brands bluesky >}}"
@@ -12,8 +11,8 @@ about:
       href: https://linkedin.com/in/ekkuijjer
     - text: "{{< iconify academicons academia-square >}}"
       href: https://soton.academia.edu/EvelineKikiKuijjer
-      
 ---
+
 I’m Kiki Kuijjer, 
 
 I help people and organisations connect audiences with research, collections, and cultural heritage through digital tools and communication.
@@ -24,4 +23,4 @@ As a freelancer, I offer consultancy, social media support, website management, 
 
 On my [blog](https://ek-ku.github.io/blog/blog.html), I write about digital tools, research communication, and the intersections between culture, science, and the sea.
 
-[Download CV](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary target="_blank"}
+[Download CV](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary .cta-btn}

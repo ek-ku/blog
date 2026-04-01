@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-title-block-banner: "#00495C"
+title-block-banner: "#004152"
 listing:
   contents: posts
   sort: "date desc"

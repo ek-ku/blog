@@ -1,7 +1,7 @@
 ---
 title: "Ocean Heritage on Bluesky"
 page-layout: full
-title-block-banner: "#00495C"
+title-block-banner: "#004152"
 ---
 
 Inspired by Alice Cann [(Librarian AND/OR researcher)](https://researcherlibrarian.wordpress.com/), I plan to list conference hashtags related to Ocean Heritage on this page.

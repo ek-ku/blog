@@ -1,7 +1,7 @@
 ---
 title: "Home"
 page-layout: full
-title-block-banner: "#003542"
+title-block-banner: "#004152"
 listing:
   contents: posts
   sort: "date desc"
@@ -9,24 +9,25 @@ listing:
   type: grid
 ---
 
-# Welcome
+## Welcome
 
 I’m Kiki Kuijjer, I help people and organisations connect audiences with research, collections, and cultural heritage through digital tools and communication.
 
 I work in [Digital Scholarship](https://library.soton.ac.uk/digital-scholarship) at the University of Southampton, focusing on 2D digitisation and helping people connect with library collections. I also manage digital engagement for the [Ocean Decade Heritage Network](https://www.oceandecadeheritage.org/), supporting efforts to better integrate ocean heritage into the [UN Ocean Decade](https://oceandecade.org/).
 
 As a freelancer, I offer consultancy, social media support, website management, and science communication services.
-[About me](about.qmd){.btn .btn-primary target="_blank"}
 
-# Services
+[About me](about.qmd){.btn .btn-primary .cta-btn}
+
+## Services
 
 * Freelance consultancy on digital engagement and science communication
 * Social media strategy, content creation, and management
 * Website updates, design support, and accessibility recommendations
 * Science communication and public engagement content
 
-[Get in touch](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary target="_blank"}
+[Get in touch](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary .cta-btn}
 
-# Latest Blog Posts
+## Latest Blog Posts
 
-On my blog, I write about digital tools, research communication, and the intersections between culture, science, and the sea.
+On my [blog](https://ek-ku.github.io/blog/blog.html), I write about digital tools, research communication, and the intersections between culture, science, and the sea.
