@@ -29,9 +29,7 @@ website:
         
 format:
   html:
-    theme:
-      - flat
-      - brand
+    theme: flat
     css: styles.css
 
 
