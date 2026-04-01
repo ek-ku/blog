@@ -2,17 +2,25 @@
 title: "Home"
 page-layout: full
 title-block-banner: "#002b36"
+listing:
+  contents: posts
+  sort: "date desc"
+  max-items: 3
+  type: grid
 ---
 
-# Welcome 👋
+# Welcome
 
-I’m Kiki Kuijjer, a Digital Heritage & Engagement Consultant.
+I’m Kiki Kuijjer, 
 
-I help libraries, researchers, and cultural organisations digitise collections, improve their digital presence, and communicate science effectively.
+I help people and organisations connect audiences with research, collections, and cultural heritage through digital tools and communication.
 
-Through my work at the University of Southampton and the Ocean Decade Heritage Network, I combine expertise in digital scholarship, social media, website management, and science communication to deliver clear, accessible, and engaging digital content.
+I work in [Digital Scholarship](https://library.soton.ac.uk/digital-scholarship) at the University of Southampton, focusing on 2D digitisation and helping people connect with library collections. I also manage digital engagement for the [Ocean Decade Heritage Network](https://www.oceandecadeheritage.org/), supporting efforts to better integrate ocean heritage into the [UN Ocean Decade](https://oceandecade.org/).
+
+As a freelancer, I offer consultancy, social media support, website management, and science communication services.
 
 # Services
+
 * Freelance consultancy on digital engagement and science communication
 * Social media strategy, content creation, and management
 * Website updates, design support, and accessibility recommendations
@@ -20,4 +28,4 @@ Through my work at the University of Southampton and the Ocean Decade Heritage N
 
 # Latest Blog Posts
 
-Stay updated with my thoughts on digital scholarship, heritage, and ocean science, and explore practical tips for improving online engagement.
+On my blog, I write about digital tools, research communication, and the intersections between culture, science, and the sea.
